@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ASIAN",
+    "path": "bundles/247c7ee031a0121ae82f/bundle",
+    "size": 29917515,
+    "sha256": "c24a256a730848107fc9477864ae21303084d76d09006d471d127271d2f1bd32"
+  },
+  {
+    "name": "CLANS",
+    "path": "CLANS",
+    "size": 86617112,
+    "sha256": "a540dcb8e83a71d6c487ffdf23351d1208e6426bc6567214e3fdc7f156fd0fd1"
+  },
+  {
+    "name": "CONFIGS",
+    "path": "bundles/c015d75cf15ca24b8655/bundle",
+    "size": 2821116,
+    "sha256": "929ad11e490ca90d63931f4ee2caea83c83c440b3bfc0ffb963f48ee07953847"
+  },
+  {
+    "name": "MODELS",
+    "path": "MODELS",
+    "size": 83659208,
+    "sha256": "5d2e2aa87777309c1d2b35b63ab00aa56a2601bca4254268ac50a742aa87b5ed"
+  },
+  {
+    "name": "TACTICS",
+    "path": "bundles/4992038d16cda6b18445/bundle",
+    "size": 63582058,
+    "sha256": "20b420e60a47514a8f0ba493051b69016afecf0e269eb61ffc3442ac36657e17"
+  },
+  {
+    "name": "ZONE_2",
+    "path": "bundles/d2dc337dd723e657443f/bundle",
+    "size": 17211025,
+    "sha256": "ca22ee689ea9ebf11c3368675a52af7c970452b134ed756611cdc35dd2723c22"
+  },
+  {
+    "name": "ZONE_3",
+    "path": "bundles/f87ad927a3d1ca4323fe/bundle",
+    "size": 15933354,
+    "sha256": "c0636b0f3ea35570dce7602db0565abbc51f58a52ddf3df23fcb0a198f85a36f"
+  },
+  {
+    "name": "ZONE_4",
+    "path": "bundles/521a6a6fd00ad9a8103b/bundle",
+    "size": 14121559,
+    "sha256": "dfe8e66d95680dc18a6292bba93f6a9ddb98a47b5013156e6dc474e6e407821c"
+  },
+  {
+    "name": "ZONE_5",
+    "path": "bundles/e4e0a9803ea1d1810556/bundle",
+    "size": 15290851,
+    "sha256": "9d408184e6bb02a755aadfc093dcbf01ed52172742b41e8a984a56c923a57127"
+  },
+  {
+    "name": "ZONE_6",
+    "path": "bundles/18bcb8be2fce2ba66654/bundle",
+    "size": 25427798,
+    "sha256": "ab17908663b50fd20e43ba944da235884d1146b07d384197f777c9f2387eb95e"
+  },
+  {
+    "name": "ZONE_7",
+    "path": "bundles/e9d3166f4b01a1bebe51/bundle",
+    "size": 13133744,
+    "sha256": "69d5128545caea2f04aa78846be8485114375bcf5501a415fd385919fb85a242"
+  },
+  {
+    "name": "ZONE_7_2",
+    "path": "bundles/58196ce18610ab82ed37/bundle",
+    "size": 3400274,
+    "sha256": "0015a89a1f5b57f1620c7e24f26f26ac43acfb56f8dc7a6e0c478b84c7332b88"
+  },
+  {
+    "name": "ZONE_7_3",
+    "path": "bundles/b6df6489657eda766e64/bundle",
+    "size": 14765280,
+    "sha256": "4fb5120adb477fe9c2e722cb2683d7daa35bcdee3095fd590ecf528e815194a3"
+  },
+  {
+    "name": "ZONE_IM",
+    "path": "bundles/f28c2195151e95c20db1/bundle",
+    "size": 4484657,
+    "sha256": "67c766f6d8cf13754610c19eb16f95c50d46f5b899a65d6dad475d813ddedd83"
+  },
+  {
+    "name": "ZONE_RAID",
+    "path": "ZONE_RAID",
+    "size": 96102551,
+    "sha256": "488b4ac8ed18b235bebba4508ec6394f47e3ba6f97e49adcdc732cede590de18"
+  }
+]
